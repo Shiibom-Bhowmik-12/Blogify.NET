@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blogify.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab2e569193cdb8f670b8967048382939a83f12f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4448352eb2528d16bb778e2432d7e36663bc07a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blogify.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blogify.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
